@@ -1,7 +1,7 @@
 ### Olá! Eu sou Isaque Morais estudante de programação. ;) 🖐️
 
 - 🔭 Hoje trabalho como estagiário
-- 🌱 Estudo Python WEB com Django, API's e JavaScript(Node),(Angular)
+- 🌱 Estudo Python WEB com Django, API's e JavaScript com Node e Angular
 - 😄 Gosto de estudar novas tecnologias
 - ⚡ Curiosidade: Sou muito curioso ;)
 
