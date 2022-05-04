@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como estagiário
 - 🌱 Estudo Python WEB com Django, API's e JavaScript com node
-- 🤔 Procurando estudar e me evoluir no mundo da tecnologia
+- 😄 Gosto de estudar novas tecnologias
 - ⚡ Curiosidade: Sou muito curioso ;)
 
 <div align="center">
