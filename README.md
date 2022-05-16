@@ -1,3 +1,8 @@
+<div> 
+   <img align="center" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
+   </div>
+
+
 ### Olá! Eu sou Isaque Morais estudante de programação. ;) 🖐️
 
 - 🌱 Estudo Python WEB com Django, API's e JavaScript com Node e Angular
