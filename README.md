@@ -1,5 +1,5 @@
 <div> 
-   <img align="center" height="400" width="1100" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
+   <img align="center" height="370" width="1050" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
    </div>
 
 
