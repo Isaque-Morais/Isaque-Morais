@@ -15,7 +15,7 @@
   </div>
   
 <div style="display: inline_block"><br>
- Tecnologias que tenho conhecimentos
+ Tecnologias que tenho conhecimentos:
  <hr>
  <br>
   <img align="center" alt="Isaque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -34,7 +34,7 @@
 <br>
 
 <div>
- Cloud
+ Cloud:
  <hr>
  <br>
   <img align= "center" alt="Isaque-Heroku" height="30" width="80" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
