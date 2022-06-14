@@ -35,7 +35,7 @@
 
 <div>
  Cloud
- <br>
+ <hr>
  <br>
   <img align= "center" alt="Isaque-Heroku" height="30" width="80" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
