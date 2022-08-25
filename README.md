@@ -1,5 +1,5 @@
 <div> 
-   <img align="center" height="370" width="900" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
+   <img align="center" height="370" width="800" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
    </div>
 
 
@@ -25,7 +25,6 @@
   <img align="center" alt="Isaque-BootStrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Isaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isaque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isaque-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Isaque-SQlite" height="30" width="80" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="right" alt="Isaque-pic" height="150" style="border-radius:50px;" 
   src="https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png">
