@@ -24,8 +24,7 @@
   <img align="center" alt="Isaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isaque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Isaque-SQlite" height="30" width="80" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="right" alt="Isaque-pic" height="150" style="border-radius:50px;" 
-  src="https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png">
+
 </div>
 
 <br>
