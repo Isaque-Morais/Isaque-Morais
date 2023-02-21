@@ -3,7 +3,7 @@
    </div>
 
 
-### Olá! Eu sou Isaque Morais estudante de programação. ;) 🖐️
+### Olá! Eu sou Isaque Morais, estudante de programação. ;) 🖐️
 
 - 🌱 Estudo Python WEB com Django e criação de API's com REST.
 - 😄 Gosto de estudar novas tecnologias
