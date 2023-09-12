@@ -34,7 +34,7 @@
  Cloud:
  <hr>
   <img align= "center" alt="Isaque-Heroku" height="30" width="80" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img align= "center" height="30" width="80" src="[https://d0.awsstatic.com/logos/powered-by-aws-white.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fc%2Famazonwebserviceslatinamerica&psig=AOvVaw2qE-YN9xuZ5Z4aIC8ZqLso&ust=1694570230004000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODQ7Zb8o4EDFQAAAAAdAAAAABAJ)" alt="AWS Cloud Computing">
+  <img align= "center" height="30" width="80" src="https://d0.awsstatic.com/logos/powered-by-aws-white.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fc%2Famazonwebserviceslatinamerica&psig=AOvVaw2qE-YN9xuZ5Z4aIC8ZqLso&ust=1694570230004000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODQ7Zb8o4EDFQAAAAAdAAAAABAJ)" alt="AWS Cloud Computing">
 </div>
 
   <br>
