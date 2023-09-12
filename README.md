@@ -19,7 +19,7 @@
  <hr>
  <br>
   <img align="center" alt="Isaque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Isaque-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Isaque-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Isaque-Django" height="30" width="80" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whit">
   <img align="center" alt="Isaque-BootStrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Isaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,7 +34,7 @@
  Cloud:
  <hr>
   <img align= "center" alt="Isaque-Heroku" height="30" width="80" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img align= "center" height="30" width="50" src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" alt="Powered by AWS Cloud Computing">
+  <img align= "center" height="30" width="60" src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" alt="Powered by AWS Cloud Computing">
 
   <br>
   <br>
