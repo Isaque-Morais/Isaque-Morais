@@ -1,4 +1,3 @@
-![image](https://github.com/Isaque-Morais/Isaque-Morais/assets/83252097/272039ae-fc9c-4eb1-b1ea-650c2fa48b8b)<div> 
    <img align="center" height="370" width="850" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
    </div>
 
