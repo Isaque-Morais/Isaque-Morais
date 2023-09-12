@@ -1,4 +1,4 @@
-<div> 
+![image](https://github.com/Isaque-Morais/Isaque-Morais/assets/83252097/272039ae-fc9c-4eb1-b1ea-650c2fa48b8b)<div> 
    <img align="center" height="370" width="850" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
    </div>
 
@@ -34,7 +34,7 @@
  Cloud:
  <hr>
   <img align= "center" alt="Isaque-Heroku" height="30" width="80" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img align= "center" height="30" width="80" src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="Powered by AWS Cloud Computing">
+  <img align= "center" height="30" width="80" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="Powered by AWS Cloud Computing">
 
   <br>
   <br>
