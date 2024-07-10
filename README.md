@@ -2,11 +2,12 @@
    </div>
 
 
-### Olá! Eu sou Isaque Morais, estudante de programação. ;) 🖐️
+### Olá! Eu sou Isaque Morais, desenvolvedor de sistemas. 🖐️
 
 - 🌱 Estudo Python WEB com Django e criação de API's com REST.
-- 😄 Gosto de estudar novas tecnologias
-- ⚡ Curiosidade: Sou muito curioso ;)
+- ⚡ Gosto de estudar novas tecnologias
+- 😄 Curiosidade: Sou muito curioso ;)
+ 
 
 <div align="center">
    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Isaque-morais&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
