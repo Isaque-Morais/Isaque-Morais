@@ -1,7 +1,4 @@
-   <div>
-   <img align="center" height="370" width="850" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
-   </div>
-
+<img align="center" height="370" width="850" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
 
 ### Olá! Eu sou Isaque Morais, desenvolvedor de sistemas. 🖐️
 
