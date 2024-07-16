@@ -1,4 +1,4 @@
-<img align="center" height="370" width="850" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
+<img align="center" height="370" width="800" alt="Isaque-pic" src="https://i.stack.imgur.com/gmMTp.gif">
 
 ### Olá! Eu sou Isaque Morais, desenvolvedor de sistemas. 🖐️
 
