@@ -8,9 +8,9 @@
  
 
 <div align="center">
-   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Isaque-morais&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Morais&layout=compact&langs_count=7&theme=react" />
- </div>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Isaque-morais&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Morais&layout=compact&langs_count=7&theme=react" />
+</div>
   
 <div style="display: inline_block"><br>
  Tecnologias que tenho conhecimentos:
