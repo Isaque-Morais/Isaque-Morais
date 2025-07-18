@@ -1,6 +1,6 @@
 <img align="center" height="370" width="800" alt="Isaque-pic" src="https://i.sstatic.net/gmMTp.gif">
 
-### Olá! Eu sou Isaque Morais, desenvolvedor de sistemas. 🖐️
+### Olá! Eu sou Isaque Morais, Desenvolvedor de Software. 💻🚀
 
 - 👨‍💻 Aplico Java | Python | PHP para criar aplicações robustas e escaláveis.
 - ⚡ Gosto de estudar novas tecnologias
@@ -34,7 +34,7 @@
  <hr>
   <img align= "center" alt="Isaque-Heroku" height="30" width="80" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
    
-  <img align= "center" height="60" width="70" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" alt="Powered by AWS Cloud Computing">
+  <img align= "center" height="60" width="70" src="[https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickersdevs.com.br%2Fshop%2Fstickers%2Faws-logo-sticker-adesivo%2F%3Fsrsltid%3DAfmBOorHnQYZyvDxg5GnbYIxWveWr8FmHyvLSJL6k1OyNoEZIhGFzDus&psig=AOvVaw1Iy63IOOE_hLHXoRCsHdxE&ust=1752931782120000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC-2f3Bxo4DFQAAAAAdAAAAABAE)" alt="Powered by AWS Cloud Computing">
   <br>
   <br>
   
