@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou Isaque Morais, desenvolvedor de sistemas. 🖐️
 
-- 👨‍💻 Estudo Python (Django, Rest Framework) e PHP (Laravel, Slim) para criar aplicações robustas e escaláveis.
+- 👨‍💻 Aplico Java | Python | PHP para criar aplicações robustas e escaláveis.
 - ⚡ Gosto de estudar novas tecnologias
 - 😄 Curiosidade: Sou muito curioso ;)
  
