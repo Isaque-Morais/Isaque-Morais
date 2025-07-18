@@ -34,7 +34,7 @@
  <hr>
   <img align= "center" alt="Isaque-Heroku" height="30" width="80" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
    
-  <img align= "center" height="60" width="70" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/amazon-web-services.png" alt="Powered by AWS Cloud Computing">
+  <img align= "center" height="60" width="70" src="https://portalbelohorizonte.com.br/sites/default/files/arquivos/eventos/2023-08/352394873_700783765148956_7281985129226930694_n.png" alt="Powered by AWS Cloud Computing">
   <br>
   <br>
   
