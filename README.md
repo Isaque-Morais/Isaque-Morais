@@ -1,11 +1,9 @@
 <img align="center" height="370" width="800" alt="Isaque-pic" src="https://i.sstatic.net/gmMTp.gif">
 
-### Olá! Eu sou Isaque Morais, Desenvolvedor de Software. 💻🚀
+### Olá! Eu sou Isaque Morais, Desenvolvedor. 💻 🚀
 
-- 👨‍💻 Aplico Java | Python | PHP para criar aplicações robustas e escaláveis.
+- 👨‍💻 Aplico PHP | Python | Java para criar aplicações robustas e escaláveis.
 - ⚡ Gosto de estudar novas tecnologias
-- 😄 Curiosidade: Sou muito curioso ;)
- 
 
 <div align="center">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Isaque-morais&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
