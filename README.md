@@ -14,9 +14,9 @@
  Tecnologias que tenho conhecimentos:
  <hr>
  <br>
+  <img align="center" alt="Isaque-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Isaque-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Isaque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isaque-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Isaque-Django" height="30" width="80" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whit">
   <img align="center" alt="Isaque-BootStrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Isaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +30,7 @@
 <div>
  Cloud:
  <hr>
-  <img align= "center" alt="Isaque-Heroku" height="30" width="80" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img align= "center" alt="GCP" height="30" width="80" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
    
   <img align= "center" height="60" width="70" src="https://portalbelohorizonte.com.br/sites/default/files/arquivos/eventos/2023-08/352394873_700783765148956_7281985129226930694_n.png" alt="Powered by AWS Cloud Computing">
   <br>
@@ -40,7 +40,6 @@
   Minhas redes:
  <hr>
  <a href="https://discord.gg/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a></a> 
-  <a href = "mailto:isaquemorais5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isaque-morais-a46589203/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
