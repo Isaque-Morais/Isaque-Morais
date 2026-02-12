@@ -30,7 +30,7 @@
 <div>
  Cloud:
  <hr>
-  <img align= "center" alt="GCP" height="30" width="80" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <!-- <img align= "center" alt="GCP" height="30" width="80" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> -->
    
   <img align= "center" height="60" width="70" src="https://portalbelohorizonte.com.br/sites/default/files/arquivos/eventos/2023-08/352394873_700783765148956_7281985129226930694_n.png" alt="Powered by AWS Cloud Computing">
   <br>
